@@ -5,14 +5,15 @@ In 2016 [cPanel](http://cpanel.com/) introduced the [Site Publisher](https://doc
 These instructions assume you have no other custom templates. If you do, you'll need to manually download the repo and upload the individual folders to your **site_templates** folder.
 ####Root Users
 ```
-git clone https://github.com/reclaimhosting/site_templates.git /var/cpanel/customizations/site_templates
+git clone https://github.com/marklajer/site_templates.git /var/cpanel/customizations/site_templates
 ```
 ####Resellers
 ```
-git clone https://github.com/reclaimhosting/site_templates.git /home/username/var/cpanel/reseller/site_templates
+git clone https://github.com/marklajer/site_templates.git /home/username/var/cpanel/reseller/site_templates
 ```
 
 ###Credits
 * [HTML5 UP](http://html5up.net/)
 * [Start Bootstrap](http://startbootstrap.com/)
 * [Feed2JS](https://feed2js.org/)
+* [Reclaim Hosting Site Templates] (https://github.com/reclaimhosting/site_templates)
